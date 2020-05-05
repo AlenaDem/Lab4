@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588632119 source:c:\users\emily\desktop\uni\labs\s2lab4\main.cpp
+	<iostream>
+	"Queue.h"
+
+1588631734 c:\users\emily\desktop\uni\labs\s2lab4\queue.h
+	<string>
+	<iostream>
+	<cassert>
+
+1588536956 source:c:\users\emily\desktop\uni\labs\s2lab4\queue.cpp
+	"Queue.h"
+
